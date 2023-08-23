@@ -1,0 +1,202 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+.logo img {
+    position: relative;
+    width: 4%;
+    left: 200px;
+}
+
+.btn {
+    border: 2px solid red;
+    border-radius: 6.53207px;
+    background-color: red;
+    position: relative;
+    width: 6%;
+    height: 36px;
+    float: right;
+    right: 221px;
+    bottom: 52px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11.7577px;
+    line-height: 14px;
+}
+
+.new{
+    background-color: black;
+    width: 100%;
+    height: 74px;
+    position: relative;
+}
+
+.logo1 img{
+    width: 10%;
+    position: relative;
+    top: 17px;
+    left: 201px;
+}
+
+.home p{
+    position: relative;
+    width: 6%;
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    left: 727px;
+    bottom: 15px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11.7577px;
+    line-height: 14px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.team p{
+    position: relative;
+    width: 6%;
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    left: 842px;
+    bottom: 28px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11.7577px;
+    line-height: 14px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.projects p{
+    position: relative;
+    width: 19%;
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    left: 934px;
+    bottom: 42px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11.7577px;
+    line-height: 14px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.contact p{
+    position: relative;
+    width: 19%;
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    left: 1140px;
+    bottom: 56px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11.7577px;
+    line-height: 14px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.new p:hover{
+    text-decoration: underline;
+    color: aqua;
+}
+
+.new1{
+    width: 100%;
+    height: 252px;
+    position: relative;
+}
+
+.logo2 img{
+    position: relative;
+    width: 24%;
+    left: 800px;
+    top: 16px;
+}
+
+.tagline h1{
+    position: relative;
+    width: 37%;
+    bottom: 187px;
+    font-size: 58px;
+    left: 270px;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.new2{
+    position: relative;
+    width: 100%;
+    height: 406px;
+    background-color: black;
+}
+.box{
+    display: inline-flex;
+    align-content: space-between;
+    flex-wrap: wrap;
+    gap: 33px;
+    justify-content: center;
+    width: 100%;
+    
+    border-radius: 10px 10px 0px 0px;
+
+    
+}
+.boxin{
+    
+    height: 302px;
+    width: 337px;
+    position: relative;
+    top: 82px;
+    border: 2px solid rgb(18, 18, 18);
+    border-radius: 10px 10px 10px 10px;
+}
+
+.div1{
+    width: 100%;
+    height: 60%;
+    border-radius: 10px 10px 0px 0px;
+   
+}
+.blue{
+    background-color: #5d5dff;   
+}
+
+.red{
+    background-color: #fb4b4b;
+    
+}
+
+.cyan{
+    background-color: #6ef3f3;
+    
+}
+
+
+.div2{
+    width: 100%;
+    background-color: white;
+    height: 40%;
+    border-radius: 0px 0px 10px 10px;
+   position: absolute;
+   
+}
+
+.div2 p{
+    padding: 21px 32px;
+}
